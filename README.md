@@ -18,3 +18,9 @@ Badges for later
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 --->
+
+<!---
+# 💼 Some of my Work
+- Project 1: Description
+- ...
+--->
