@@ -1,4 +1,4 @@
-# Hi there 👋:
+# Hi there 👋
 🧑‍💻 I'm a developer who loves taking bleeding-edge tech from research papers and building production systems that deliver real business value<br>🎓 I have a Technical High School Diploma in Computer Systems (UANL)<br>📈 Currently in third year of Economics (UANL)<br>🧪 I love Data Science<br>🧠 Passionate about Data and AI<br>📖 I'm currently learning Artificial Intelligence and Machine Learning
 
 <!---
