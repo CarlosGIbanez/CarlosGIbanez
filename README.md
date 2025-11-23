@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# Hi there 👋:
 🏢 Tech person looking to bring the vanguard of the human knowledge into business practice<br>🎓 Technical High School Diploma in Computer Systems (UANL)<br>📈 Currently in third year of Economics (UANL)<br>🧪 I love Data Science<br>🧠 Passionate about Data and AI<br>📖 I'm currently learning Artificial Intelligence and Machine Learning
 
 <!---
@@ -20,8 +18,3 @@ Badges for later
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 --->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CarlosGIbanez&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CarlosGIbanez&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGIbanez&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
