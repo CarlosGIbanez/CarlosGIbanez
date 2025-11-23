@@ -1,5 +1,5 @@
 # Hi there 👋:
-🏢 I'M a tech person looking to bring the vanguard of the human knowledge into business practice<br>🎓 I have a Technical High School Diploma in Computer Systems (UANL)<br>📈 Currently in third year of Economics (UANL)<br>🧪 I love Data Science<br>🧠 Passionate about Data and AI<br>📖 I'm currently learning Artificial Intelligence and Machine Learning
+🏢 I'm a tech person looking to bring the vanguard of the human knowledge into business practice<br>🎓 I have a Technical High School Diploma in Computer Systems (UANL)<br>📈 Currently in third year of Economics (UANL)<br>🧪 I love Data Science<br>🧠 Passionate about Data and AI<br>📖 I'm currently learning Artificial Intelligence and Machine Learning
 
 <!---
 your comment goes here
