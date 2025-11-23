@@ -24,3 +24,8 @@ Badges for later
 - Project 1: Description
 - ...
 --->
+
+<!---
+## 📄 Favorite Papers
+- Paper 1 (With link)
+- ...
